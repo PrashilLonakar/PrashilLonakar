@@ -72,12 +72,9 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=prashillonakar&show_icons=true&theme=tokyonight" height="160"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prashillonakar&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prashillonakar&layout=compact&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashillonakar&layout=compact&theme=tokyonight" height="160"/>
-
-</p>
 
 ---
 
