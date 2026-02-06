@@ -73,15 +73,16 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PrashilLonakar&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashilLonakar&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
 ### 🤝 Let’s Connect
-- 💼 LinkedIn: *add your profile link*
-- 📫 Email: *your email here*
+- 💼 LinkedIn: https://www.linkedin.com/in/prashil-lonakar
+- 🌐 Portfolio: https://prashillonakar.github.io/portfolio
+- 📫 Email: prashil.lonakar@gmail.com
 
 ---
 
