@@ -1,4 +1,4 @@
-[![Alt text](banner.jpg)](https://prashillonakar.github.io/portfolio/home)
+[![Alt text](prashil-github-banner.png)](https://prashillonakar.github.io/portfolio/home)
 
 <h1 align="center">Hi, I'm Prashil Lonakar! 👋</h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=prashillonakar&left_color=royalblue&right_color=black" />
