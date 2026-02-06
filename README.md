@@ -3,8 +3,6 @@
 <h1 align="center">Hi, I'm Prashil Lonakar! 👋</h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=prashillonakar&left_color=royalblue&right_color=black" />
 
-<h3 align="center">hello</h3>
-
 <h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
 
 <p align="center">
