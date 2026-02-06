@@ -94,6 +94,10 @@
 
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=prashillonakar&layout=compact&theme=tokyonight&hide_border=true)
 
+### 📊 GitHub Stats
+
+![GitHub Metrics](https://raw.githubusercontent.com/prashillonakar/github-metrics/main/github-metrics.svg)
+
 
 
 
