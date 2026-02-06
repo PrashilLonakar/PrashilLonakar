@@ -13,8 +13,7 @@
   </a>
 </p>
 
-![GitHub Snake](![GitHub Snake](https://raw.githubusercontent.com/prashillonakar/prashillonakar/output/ocean.gif)
-)
+![Snake GIF](https://raw.githubusercontent.com/PrashilLonakar/github-metrics/output/ocean.gif)
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
 
