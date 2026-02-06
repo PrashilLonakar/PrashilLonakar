@@ -15,31 +15,6 @@
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
 
-### 📊 GitHub Stats
-
-![GitHub Metrics](https://raw.githubusercontent.com/prashillonakar/github-metrics/main/github-metrics.svg)
-
-  <!-- Right Content -->
-  <div style="flex: 1; max-width: 45%; margin-left: 20px;">
-
-### 🌐 Let's Connect and Grow Together!
-
-<p>
-  <a href="https://linkedin.com/in/prashil-lonakar" target="_blank">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" />
-  </a>
-</p>
-
-### ✨ Featured Projects
-- **admin-dashboard** → https://github.com/prashillonakar/admin-dashboard  
-- **portfolio** → https://github.com/prashillonakar/portfolio  
-- **pinntag-be** → https://github.com/prashillonakar/pinntag-be  
-
-### 🧑‍💻 About Me
-I’m a Software Engineer with 5.5+ years of experience specializing in **Angular**, **Node.js**, **NestJS**, and **React**.  
-I enjoy building scalable front-end architectures, clean backend services, and polished admin dashboards.
-
-I’m passionate about writing maintainable code, learning new tech, and continuously improving as a developer.
-
-</div>
-</div>
+| 📊 GitHub Stats | 🌐 Let's Connect & About |
+|---|---|
+| ![GitHub Metrics](https://raw.githubusercontent.com/prashillonakar/github-metrics/main/github-metrics.svg) | ### 🌐 Let's Connect and Grow Together!<br><br><a href="https://linkedin.com/in/prashil-lonakar"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" /></a><br><br>### ✨ Featured Projects<br>- **admin-dashboard** → https://github.com/prashillonakar/admin-dashboard<br>- **portfolio** → https://github.com/prashillonakar/portfolio<br>- **pinntag-be** → https://github.com/prashillonakar/pinntag-be<br><br>### 🧑‍💻 About Me<br>I’m a Software Engineer with 5.5+ years of experience specializing in **Angular**, **Node.js**, **NestJS**, and **React**.<br><br>I enjoy building scalable front-end architectures, clean backend services, and polished admin dashboards. |
