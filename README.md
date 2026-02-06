@@ -20,6 +20,10 @@
     <img align="left" width="100%" alt="GitHub Metrics" src="https://github.com/prashillonakar/prashillonakar/blob/main/github-metrics.svg">
   </div>
 
+### 📊 GitHub Stats
+
+![GitHub Metrics](https://raw.githubusercontent.com/prashillonakar/github-metrics/main/github-metrics.svg)
+
   <!-- Right Content -->
   <div style="flex: 1; max-width: 45%; margin-left: 20px;">
 
